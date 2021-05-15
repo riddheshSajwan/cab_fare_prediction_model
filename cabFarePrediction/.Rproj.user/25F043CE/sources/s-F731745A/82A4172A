@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583090178054.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1270332844",
+    "id" : "82A4172A",
+    "lastKnownWriteTime" : 1573284488,
+    "last_content_update" : 1573284488,
+    "path" : "~/Edwisor/Advance Analytics/CaseStudy_MarketingCampaign.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
